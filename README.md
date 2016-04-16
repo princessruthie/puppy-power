@@ -10,3 +10,9 @@ light-gray: #ececec
 dark-purple: #884183
 light-purple: #a98295
 light-green-accent: #c9eccc
+
+Email: puplift.me@gmail.com
+Pass: puppypuppy
+
+Ionic User: Puplift
+Ionic Pass: puppypuppy
